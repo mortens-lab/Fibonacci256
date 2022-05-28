@@ -6,5 +6,4 @@ Video: https://www.youtube.com .......
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K46PQW5) -->
 <!-- This content will not appear in the rendered Markdown -->
 
-Have fun, I hope you learned something new :-)
-](https://github.com/mortens-lab/Fibonacci256/edit/main/README.md)
+Have fun, I hope you learned new stuff :-)
